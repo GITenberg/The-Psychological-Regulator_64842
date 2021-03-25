@@ -1,5 +1,8 @@
 _repo: The-Psychological-Regulator_64842
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64842-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooke, Arthur O. (Arthur Owens)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '5014'
     url: http://www.gutenberg.org/2009/agents/5014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64842#The-Psychological-Regulator
 gutenberg_issued: '2021-03-16'
 gutenberg_type: Text
 identifiers:
